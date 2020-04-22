@@ -1,0 +1,24 @@
+.lista1 {
+	background-color: yellow;
+}
+
+.lista1:hover {
+	background-color: blue;
+	width: 100px;
+}
+
+.lista2 {
+	color: blue;
+}
+
+.lista2:visited {
+	color: green;
+}
+
+.lista3 {
+	color: green;
+}
+
+.lista3:active {
+	color: red;
+}
